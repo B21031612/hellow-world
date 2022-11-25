@@ -7,3 +7,4 @@ s+=src[i];
 s+='\0';
 return s;
 }
+/*远程edit*/
